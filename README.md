@@ -1,4 +1,5 @@
 # Square Area
+![Capture d’écran du 2022-10-08 21-15-06](https://user-images.githubusercontent.com/33722914/194723922-ebb2b0ef-1912-4304-833b-3960d7b95919.png)
 
 Welcome on this react project ! \
 The goal of this project is to found the biggest area of the same color on a generated square.
